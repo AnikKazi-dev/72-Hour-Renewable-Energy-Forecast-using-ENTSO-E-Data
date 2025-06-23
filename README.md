@@ -1,1 +1,1 @@
-# 72-Hour-Renewable-Energy-Forecast-CNN-LSTM-using-ENTSO-E-Data
+#72-Hour-Renewable-Energy-Forecast-using-ENTSO-E-Data
