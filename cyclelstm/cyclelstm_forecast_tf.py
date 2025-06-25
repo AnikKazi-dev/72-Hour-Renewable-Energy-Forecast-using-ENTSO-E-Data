@@ -42,8 +42,8 @@ config = {
         'hidden_size': 64,
         'num_layers': 2,
         'dropout': 0.2,
-        'cycle_len': 24,            # Daily seasonality for hourly data
-        'cycle_channel_size': 1
+        'cycle_len': 24,            # Daily seasonality for hourly data. This parameter defines the length of the recurring pattern, or "seasonality," that the model should learn.
+        'cycle_channel_size': 1     # Since using only a single input feature
     },
     'training_params': {
         'batch_size': 32,
