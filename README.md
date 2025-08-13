@@ -2,7 +2,6 @@
 
 # Auto-Extracted Benchmark Metrics
 
-(Only metrics actually found in executed notebook outputs or inferred from source are filled; others are blank.)
 
 ## Autoformer
 | Version | MAE | RMSE | R² | Model Size (MB) | # Params (M) | Source File |
